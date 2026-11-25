@@ -1,11 +1,13 @@
 ﻿# Culinary Rush: 5-Star Master Chef
 
-[![make.fun](https://make.fun/api/competitions/best-cooking-game-20261125-0137/badge.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/kagazuki/cooking-game-01/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/kagazuki/cooking-game-01/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
-A gourmet cooking and kitchen rush simulation game built for make.fun's **Make the best cooking game** bounty.
+A complete gourmet cooking kitchen simulation game created for the make.fun bounty.
 
 ## Stations
-1. **Order Board**: Active guest tickets with dynamic countdown timers.
-2. **Pantry & Prep Station**: Artisan ingredients (Brioche, Wagyu Beef, Cheddar, Tomato, Crisp Lettuce, Onion, Wild Mushroom).
-3. **Hot Searing Griddle**: Flat-top cast-iron grill.
-4. **Assembly & Plating**: Precision stacking and dish presentation.
+- **Order Board**: Live tickets with countdown timers.
+- **Pantry & Prep**: Artisan ingredients (Brioche Bun, Wagyu Patty, Sharp Cheddar, Tomato, Crisp Lettuce, Onion, Wild Truffle Mushroom).
+- **Hot Searing Griddle**: Cast-iron grill with sizzling burners.
+- **Assembly & Plating**: Exact recipe stacking and dish delivery pass.
